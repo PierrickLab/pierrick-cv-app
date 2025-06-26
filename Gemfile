@@ -28,6 +28,8 @@ gem "jbuilder"
 
 gem "sassc"
 
+gem "bootstrap", "~> 5.3.0"
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
 
